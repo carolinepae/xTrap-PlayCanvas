@@ -1,0 +1,15 @@
+{
+  "name": "metapp",
+  "version": "1.0.0",
+  "description": "This is an app delivery method developed and copyrighted by me - Caroline Tenet. If no one has claimed the right I shall do it and now Google are belongs to me[sic].\\",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caroline Tenet",
+  "license": "ISC"
+}
