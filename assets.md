@@ -1,0 +1,1 @@
+So the gist of it is use Blender to import a VRM using CATS and an exporter, then import it into Mixamo after having "fixed the VRM" in Blender. Theen you can rig the model via very voodoo means and then import into your game engine. I choose Godot because it delivers what a final rewrite-less PlayCanvas knockoff (mine) couldn't. I license this GNU GPL v3
